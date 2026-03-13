@@ -19,7 +19,11 @@ Communication flows through a structured cadence: daily standups (15 minutes foc
 | **Project Manager** | Coordinates delivery, manages risks, facilitates meetings, and ensures status transparency |
 | **Product Manager** | Owns vision, prioritizes the backlog, and validates outcomes |
 | **Developers** | Build, test, and deliver features to defined acceptance criteria |
-| **QA/Testing** | Validates acceptance criteria and maintains quality standards |
+| **QA / Test Engineer** | Validates acceptance criteria, manages test plans, triages defects, and maintains CI quality gates |
+| **Tech Lead / Architect** | Provides technical direction, enforces engineering standards, and mentors the development team |
+| **Stakeholder** | Provides business context, participates in milestone reviews, and champions the project |
+| **Security Champion** | Promotes secure coding practices, conducts threat modeling, and monitors security scanning results |
+| **UX / Designer** | Conducts user research, creates design specifications, and ensures accessible, consistent experiences |
 
 ---
 
@@ -35,5 +39,7 @@ Communication flows through a structured cadence: daily standups (15 minutes foc
 | [Release & Deployment Guide](octoacme-release-and-deployment.md) | Pre-release checklist, deployment steps, rollback playbook, and release notes |
 | [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md) | Sprint/release retrospective format and tracking improvements |
 | [Roles & Personas](octoacme-roles-and-personas.md) | Detailed responsibilities, goals, and communication patterns per role |
+| [RACI Matrix](octoacme-raci-matrix.md) | Accountability chart mapping all roles to key project activities |
+| [Onboarding Guide](octoacme-onboarding-guide.md) | Step-by-step guide for new team members joining an OctoAcme project |
 
 > For full details on any process, see the linked documents above.
